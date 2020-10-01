@@ -1,0 +1,28 @@
+{
+    "name": "elevenstack/axiosphp",
+    "description": "method for getting api",
+    "minimum-stability": "stable",
+    "type": "library",
+    "keywords": [
+        "Axios",
+        "api rest",
+        "elevenstack",
+        "API",
+        "axios php"
+    ],
+    "authors": [
+        {
+            "name": "Guilherme-j10",
+            "email": "guilhermeZA.123123@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "elevenstack\\axiosphp\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.2"
+    }
+}
